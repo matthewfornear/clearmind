@@ -1,0 +1,9 @@
+5' Cap
+|
+[Aβ-sensing aptamer gate or toehold switch]
+|
+Neprilysin signal peptide + coding region
+|
+3' UTR with neuronal specificity
+|
+Poly-A tail
